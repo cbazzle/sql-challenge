@@ -6,7 +6,7 @@
 
 This is a research project analyzing a company's employees from the 1980s and 1990s. The data is contained in six CSV files.
 
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
+I designed the tables to hold the CSVs and importd them for analysis.
 
 ## Instructions
 
