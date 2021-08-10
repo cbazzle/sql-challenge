@@ -14,7 +14,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 I inspected the CSVs and sketched out an ERD of the tables using the program Quick Database Diagrams.
 
-![ERD](Images/ERD.png)
+![ERD](Images/ERD.PNG)
 
 #### Data Engineering
 
